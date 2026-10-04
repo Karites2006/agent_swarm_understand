@@ -1,0 +1,6 @@
+pandas
+jsonschema
+nltk
+requests
+openai
+tabulate
